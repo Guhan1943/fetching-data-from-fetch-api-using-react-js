@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fetching-data-from-fetch-api-using-react-js/static/js/main.4c3b3318.js",
+    "main.js": "/fetching-data-from-fetch-api-using-react-js/static/js/main.5c20b90d.js",
     "index.html": "/fetching-data-from-fetch-api-using-react-js/index.html",
-    "main.4c3b3318.js.map": "/fetching-data-from-fetch-api-using-react-js/static/js/main.4c3b3318.js.map"
+    "main.5c20b90d.js.map": "/fetching-data-from-fetch-api-using-react-js/static/js/main.5c20b90d.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c3b3318.js"
+    "static/js/main.5c20b90d.js"
   ]
 }
